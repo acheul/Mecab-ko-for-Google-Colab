@@ -27,7 +27,7 @@
 
 #### 2. 복사한 주소와 git clone 명령어를 활용하여 Colab notebook에서 다운로드 받습니다.
 ```Bash
-!git clone https://github.com/SOMJANG/Mecab-ko-for-Google-Colab.git
+!git clone https://github.com/acheul/Mecab-ko-for-Google-Colab.git
 ```
 ![git clone](/images/gitclone.png "Optional title")
 

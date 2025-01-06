@@ -40,8 +40,8 @@ echo "Change Directory to /content"
 cd ../
 
 echo "Downloading mecab-ko-dic-2.1.1-20180720.tar.gz......."
-echo "from https://bitbucket.org/eunjeon/mecab-ko-dic/downloads/mecab-ko-dic-2.1.1-20180720.tar.gz"
-! wget https://bitbucket.org/eunjeon/mecab-ko-dic/downloads/mecab-ko-dic-2.1.1-20180720.tar.gz
+echo "from https://bitbucket.org/Acheul3/mecab-dict/downloads/mecab-ko-dic-2.1.1-20180720.tar.gz"
+! wget https://bitbucket.org/Acheul3/mecab-dict/downloads/mecab-ko-dic-2.1.1-20180720.tar.gz
 echo "Done"
  
 echo "Unpacking  mecab-ko-dic-2.1.1-20180720.tar.gz......."
